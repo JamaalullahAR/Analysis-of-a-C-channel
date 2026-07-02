@@ -1,13 +1,15 @@
-# Overview 
+# Analysis of a C channel
 
-# Objectives 
+## Overview 
 
-# Tools and concepts used
+## Objectives 
 
-# Methodology
+## Tools and concepts used
 
-# Results
+## Methodology
 
-# Project images
+## Results
 
-# What I learnt
+## Project images
+
+## What I learnt
