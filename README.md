@@ -64,26 +64,44 @@ This was the first time I had to use ANSYS FEA alongside analytical validation f
 </p>
 
 <p align="center">
-  <img src="images/Shell_normal.png" width="800">
+  <img src="images/Shell_normal.png" width="500">
 </p>
 
 <p align="center">
-  <i>Figure 5
-     </i>
+  <i>Figure 5: Shell normal stress convergence study </i>
 </p> 
+
 <p align="center"> 
-  <img src="" width="800">
+  <img src="images/HEX_normal.png" width="500">
 </p>
 
 <p align="center">
-  <i>Figure 1: </i>
+  <i>Figure 6: Solid model normal stress convergence study using hexagonal sizing</i>
 </p>
+
+<p align="center">
+  <img src="images/TET_normal.png" width="500">
+</p>
+
+<p align="center">
+  <i>Figure 7: Solid model normal stress convergence study using tetrahedral sizing</i>
+</p>
+
+<p align="center">
+  <img src="images/embodied_carbon.png" width="800">
+</p>
+
+<p align="center">
+  <i>Figure 8: Embodied carbon of aluminium and steel (last column is steel not aluminium) </i>
+</p>
+
+The full report with complete calculations and discussion can be found in the files. Note that the hand caculations are not completely accurate and could be more rigorous. 
 
 ## What I learnt
 - How to use FEA to analyse objects.
 - How to use SpaceClaim to obtain a shell model.
 - How a mesh convergence study can be used to check the validity of results.
-- I also leant to have complete workings in my report as that did cause me alot of marks.
+- I also leant to have complete, rigorous workings in my report as that did cause me alot of marks.
 - I learnt that my initial calculations for the normal stresses were wrong, and slowly understood the correct way to complete the hand calculations.
 - I learnt that the Richardson extrapolation had to be shown across an infinite range of node sizes, and not just as a singular point.
 - I understood the meaning of embodied carbon and how it can affect the consideration of materials for manufacturing and its lifetime usage.
