@@ -31,6 +31,53 @@ This was the first time I had to use ANSYS FEA alongside analytical validation f
 - Thus, from FEA, and some hand calculations, the best material to use for the support beam was the aluminium alloy. 
   
 ## Project images
+<p align="center">
+  <img src="images/FBD_2.0.png" width="500">
+</p>
+
+<p align="center">
+  <i>Figure 1: Free body Diagram of the wing cross section and C beam </i>
+</p>
+
+<p align="center">
+  <img src="images/forceCalcs.png" width="800">
+</p>
+
+<p align="center">
+  <i>Figure 2: Reaction force calculations </i>
+</p>
+
+<p align="center">
+  <img src="images/FEA_setup (2).png" width="800">
+</p>
+
+<p align="center">
+  <i>Figure 3: FEA force setup </i>
+</p>
+
+<p align="center">
+  <img src="images/Support_setup (2).png" width="800">
+</p>
+
+<p align="center">
+  <i>Figure 4: FEA support setup </i>
+</p>
+
+<p align="center">
+  <img src="images/Shell_normal.png" width="800">
+</p>
+
+<p align="center">
+  <i>Figure 5
+     </i>
+</p> 
+<p align="center"> 
+  <img src="" width="800">
+</p>
+
+<p align="center">
+  <i>Figure 1: </i>
+</p>
 
 ## What I learnt
 - How to use FEA to analyse objects.
@@ -41,4 +88,10 @@ This was the first time I had to use ANSYS FEA alongside analytical validation f
 - I learnt that the Richardson extrapolation had to be shown across an infinite range of node sizes, and not just as a singular point.
 - I understood the meaning of embodied carbon and how it can affect the consideration of materials for manufacturing and its lifetime usage.
 
+<!-- <p align="center">
+  <img src="" width="800">
+</p>
 
+<p align="center">
+  <i>Figure 1: </i>
+</p> --!>
