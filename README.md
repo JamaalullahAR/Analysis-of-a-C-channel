@@ -101,7 +101,7 @@ The full report with complete calculations and discussion can be found in the fi
 - How to use FEA to analyse objects.
 - How to use SpaceClaim to obtain a shell model.
 - How a mesh convergence study can be used to check the validity of results.
-- I also leant to have complete, rigorous workings in my report as that did cause me alot of marks.
+- I also leant to have complete, rigorous workings in my report as that did cost me alot of marks.
 - I learnt that my initial calculations for the normal stresses were wrong, and slowly understood the correct way to complete the hand calculations.
 - I learnt that the Richardson extrapolation had to be shown across an infinite range of node sizes, and not just as a singular point.
 - I understood the meaning of embodied carbon and how it can affect the consideration of materials for manufacturing and its lifetime usage.
